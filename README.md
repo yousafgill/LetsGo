@@ -1,2 +1,5 @@
 # Lets-Go
-Let's Go is a learning repository where you can learn go with me from ground up
+I am on a path to learn Go Language, and i want to make this repository public so that everyone can join me in this learning journey.
+
+# Suggestions
+Give Suggestions
