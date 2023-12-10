@@ -1,4 +1,4 @@
-package main
+package letsgo
 
 import "fmt"
 
@@ -112,7 +112,7 @@ func variables() {
 	const (
 		r = iota
 		s = iota
-		t = iota
+		t = iota 
 	)
 	fmt.Println("value of constant r, s, t  = ", r, s, t)
 
