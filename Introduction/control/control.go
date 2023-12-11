@@ -1,6 +1,6 @@
-package letsgo
+package control
 
-func control() {
+func main() {
 
 	a := 10
 	b := 20
