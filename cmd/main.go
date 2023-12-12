@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/yousafgill/letsgo/pkg/controlflow"
+	"github.com/yousafgill/letsgo/pkg/functions"
 	"github.com/yousafgill/letsgo/pkg/operators"
 	"github.com/yousafgill/letsgo/pkg/variables"
 )
@@ -20,6 +21,8 @@ func main() {
 	//Display PrintControlFlow here
 	controlflow.PrintControlFlow()
 	
+	//Display PrintFunctions here
+	functions.PrintFunctions()
 
 
 }
