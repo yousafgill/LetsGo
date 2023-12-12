@@ -1,6 +1,6 @@
-package control
+package controlflow
 
-func main() {
+func PrintControlFlow() {
 
 	a := 10
 	b := 20

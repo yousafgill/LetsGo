@@ -1,6 +1,6 @@
-package Functions
+package functions
 
-func simple() {
+func PrintFunctions() {
 
 	//1: create a function
 	println("1: create a function")

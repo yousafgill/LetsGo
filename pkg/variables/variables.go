@@ -1,8 +1,8 @@
-package letsgo
+package variables
 
 import "fmt"
 
-func variables() {
+func PrintVariables() {
 	//1: print hello world
 	fmt.Println("Hello World")
 
@@ -112,7 +112,7 @@ func variables() {
 	const (
 		r = iota
 		s = iota
-		t = iota 
+		t = iota
 	)
 	fmt.Println("value of constant r, s, t  = ", r, s, t)
 

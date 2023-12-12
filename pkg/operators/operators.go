@@ -1,6 +1,6 @@
-package letsgo
+package operators
 
-func operators() {
+func PrintOperators() {
 	//1: arithmetic operators
 	println("1: arithmetic operators")
 	println("1 + 2 = ", 1+2)     //addition
