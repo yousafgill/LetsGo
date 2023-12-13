@@ -2,8 +2,9 @@ package main
 
 import (
 	"github.com/yousafgill/letsgo/pkg/controlflow"
-	"github.com/yousafgill/letsgo/pkg/operators"
-	"github.com/yousafgill/letsgo/pkg/variables"
+	"github.com/yousafgill/letsgo/pkg/function"
+	"github.com/yousafgill/letsgo/pkg/operator"
+	"github.com/yousafgill/letsgo/pkg/variable"
 )
 
 func main() {
@@ -12,14 +13,16 @@ func main() {
 	println("Hello World")
 
 	//Display PrintVariables here
-	operators.PrintOperators()
+	operator.PrintOperators()
 
 	//Display PrintVariables here
-	variables.PrintVariables()
+	variable.PrintVariables()
 
 	//Display PrintControlFlow here
 	controlflow.PrintControlFlow()
 	
+	//Display PrintFunctions here
+	function.PrintFunctions()
 
 
 }
