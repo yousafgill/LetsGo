@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# BAT file
+*.bat
+
 # Test binary, built with `go test -c`
 *.test
 
