@@ -55,5 +55,8 @@ func main() {
 		println("Invalid input")
 	}
 
+	//write a function which count to 1 billion and print the time it took
+
+	
 
 }
